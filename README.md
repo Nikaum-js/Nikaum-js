@@ -25,7 +25,7 @@ Programo desde os meus 14 anos, sempre procuro aprender cada vez mais sobre esse
 - 🚀 #NeverStopLerning
 
 
-Contato 👇🏼
+## Contato 👇🏼
 
 <div>
 <a href="https://www.linkedin.com/in/nikolas-santana-0a00091a7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
