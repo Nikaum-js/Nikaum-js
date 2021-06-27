@@ -4,7 +4,7 @@ Meu nome é Nikolas Santana <img width="15px" src="https://image.flaticon.com/ic
 
 Eu sou desenvolvedor front-end  💻
 
-Programo desde os meus 15 anos, sempre procuro aprender cada vez mais sobre esse universo da programação  👨🏻‍💻
+Programo desde os meus 14 anos, sempre procuro aprender cada vez mais sobre esse universo da programação  👨🏻‍💻
 
 ## Minhas Stacks 🔨
 
