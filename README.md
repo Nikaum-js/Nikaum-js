@@ -1,6 +1,6 @@
 # Hello 👋
 
-Meu nome é Nikolas Santan 🇧🇷
+Meu nome é Nikolas Santana 🇧🇷
 
 Eu sou desenvolvedor front-end  💻
 
