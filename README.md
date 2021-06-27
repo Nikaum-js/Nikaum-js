@@ -16,7 +16,6 @@ Programo desde os meus 15 anos, sempre procuro aprender cada vez mais sobre esse
 Siga-me 👇🏼
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/nikolas-santana-0a00091a7/) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/nikolas-santana-0a00091a7) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/papodedev/)](https://www.instagram.com/nikolas.dev/) 
 [![Gmail Badge](https://img.shields.io/badge/-brorlandi@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brorlannikkolas21082003@gmail.com)
-
