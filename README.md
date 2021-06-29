@@ -13,12 +13,14 @@ Programo desde os meus 14 anos, sempre procuro aprender cada vez mais sobre esse
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3" padding="10px"  width="60" height="60"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" padding="10px" alt="javascript" width="60" height="60"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="react" padding="10px" width="60" height="60"/>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a>
+<a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="60" height="60"/> </a>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="react"  padding="10px"width="60" height="60"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" padding="10px" width="60" height="60"/>
 </p>
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nikolas-as&layout=compact&langs_count=8&theme=tokyonight"/>
 
-## 🌍 "Quanto mais eu sei, mais eu sou" 🧠
+## 📚 "Quanto mais eu sei, mais eu sou" 🧠
 
 - 📍 Moro em São Paulo - SP
 - 💻 Front-End Developer
