@@ -18,7 +18,6 @@
 
 ## Languages and Tools 🔧🔨
 <br>
-
 <p align="center" margin="100px">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" alt="html5" padding="10px"  width="60" height="60"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" alt="css3" padding="10px"  width="60" height="60"/>
@@ -40,6 +39,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="react" padding="10px" width="60" height="60"/>
 <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="css3" padding="10px"  width="60" height="60"/>
 <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="css3" padding="10px"  width="60" height="60"/>
+<img src="https://camo.githubusercontent.com/84bd98630df954f941a89481d6e8db1409ea24c0d5900a5ab760d38ce53e2b19/687474703a2f2f692e696d6775722e636f6d2f5965655534316d2e706e67" alt="html5" padding="10px"  width="60" height="60"/>
 <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="css3" padding="10px"  width="60" height="60"/>
 <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" padding="10px" alt="firebase" width="60" height="60"/> </a>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/babel/babel-original.svg" alt="react" padding="10px" width="60" height="60"/>
