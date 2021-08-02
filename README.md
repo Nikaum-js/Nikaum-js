@@ -17,7 +17,7 @@
 ## Languages and Tools 🔧🔨
 <br>
 
-<p align="left" margin="100px">
+<p align="center" margin="100px">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" alt="html5" padding="10px"  width="60" height="60"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" alt="css3" padding="10px"  width="60" height="60"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" padding="10px" alt="javascript" width="60" height="60"/>
@@ -39,11 +39,7 @@
 <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="css3" padding="10px"  width="60" height="60"/>
 <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" padding="10px" alt="firebase" width="60" height="60"/> </a>
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="css3" padding="10px"  width="60" height="60"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="nodejs" padding="10px" width="60" height="60"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="nextjs" padding="10px" width="60" height="60"/>
 <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="css3" padding="10px"  width="60" height="60"/>
-<img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="css3" padding="10px"  width="60" height="60"/>
-<img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="css3" padding="10px"  width="60" height="60"/>
 </p>
 
 <br>
