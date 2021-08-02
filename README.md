@@ -2,7 +2,7 @@
 
 Meu nome é Nikolas Santana <img width="15px" src="https://image.flaticon.com/icons/png/512/206/206597.png">
 
-Eu sou desenvolvedor front-end  💻
+Eu sou desenvolvedor front-end  💻:earth_americas:
 
 Programo desde os meus 14 anos, sempre procuro aprender cada vez mais sobre esse universo da programação  👨🏻‍💻
 
