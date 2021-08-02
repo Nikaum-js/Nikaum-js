@@ -9,9 +9,11 @@
 
 - <p>My favorite technologies are ReactJs and NodeJs. 💖⭐</p>
 
+- <p> Student at rocketseat. 🚀📚</p>
+
 - <p>I live in Brazil 🚩🇧🇷</p>
 
-- <p>"Everything good lasts long enough to become unforgettable."</p>
+- <p>"Everything good lasts long enough to become unforgettable."🔥</p>
 
 
 ## Languages and Tools 🔧🔨
