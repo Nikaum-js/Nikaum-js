@@ -1,29 +1,51 @@
-# Hello <img width="30px" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif">
+# Hello Word 🌎<img width="30px" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif">
 
-Meu nome é Nikolas Santana <img width="15px" src="https://image.flaticon.com/icons/png/512/206/206597.png">
 
-Eu sou desenvolvedor front-end  💻:earth_americas:
+<h1 align="center">Hi 👋, I'm Nikolas Santana, 17y</h1>
+<h2 align="center">Full Stack Developer💻🚀</h2>
 
-Programo desde os meus 14 anos, sempre procuro aprender cada vez mais sobre esse universo da programação  👨🏻‍💻
+<h4>A young man in love with technology. 👨🏻‍💻</h4>
 
-## Minhas Stacks 🔨
+<h4>My favorite technologies are ReactJs and NodeJs. 💖⭐</h4>
 
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg" alt="html5" padding="10px"  width="60" height="60"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3" padding="10px"  width="60" height="60"/>
+<h4>"Everything good lasts long enough to become unforgettable."</h4>
+
+
+## Languages and Tools 🔧🔨
+<br>
+
+<p align="left" margin="100px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" alt="html5" padding="10px"  width="60" height="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" alt="css3" padding="10px"  width="60" height="60"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" padding="10px" alt="javascript" width="60" height="60"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="react" padding="10px" width="60" height="60"/>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a>
 <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="60" height="60"/> </a>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="react"  padding="10px"width="60" height="60"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" padding="10px" width="60" height="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="react"  padding="10px"width="60" height="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" padding="10px" width="60" height="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" padding="10px" width="60" height="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" padding="10px" width="60" height="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" padding="10px" width="60" height="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="nodejs" padding="10px" width="60" height="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="nodejs" padding="10px" width="60" height="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="nodejs" padding="10px" width="60" height="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg" alt="nodejs" padding="10px" width="60" height="60"/>
+<img src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" alt="css3" padding="10px"  width="60" height="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="react" padding="10px" width="60" height="60"/>
+<img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="css3" padding="10px"  width="60" height="60"/>
+<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="css3" padding="10px"  width="60" height="60"/>
+<a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" padding="10px" alt="firebase" width="60" height="60"/> </a>
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="css3" padding="10px"  width="60" height="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="nodejs" padding="10px" width="60" height="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="nextjs" padding="10px" width="60" height="60"/>
+<img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="css3" padding="10px"  width="60" height="60"/>
+<img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="css3" padding="10px"  width="60" height="60"/>
+<img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="css3" padding="10px"  width="60" height="60"/>
 </p>
 
-## 📚 "Quanto mais eu sei, mais eu sou" 🧠
+<br>
 
-- 📍 Moro em São Paulo - SP
-- 💻 Front-End Developer
-- 🚀 #NeverStopLerning
+## 📚 "The more I know the more I am" 🧠
 
 <center>
 <table>
