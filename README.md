@@ -11,7 +11,7 @@
 
 - <p> Student at rocketseat. 🚀📚</p>
 
-- <p>I live in Brazil. 🚩<img width="15px" src="https://image.flaticon.com/icons/png/512/206/206597.png"></p>
+- <p>I live in Brazil.<img width="15px" src="https://image.flaticon.com/icons/png/512/206/206597.png">🚩</p>
 
 - <p>"Everything good lasts long enough to become unforgettable."🔥</p>
 
