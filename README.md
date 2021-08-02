@@ -33,7 +33,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" padding="10px" width="60" height="60"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="nodejs" padding="10px" width="60" height="60"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="nodejs" padding="10px" width="60" height="60"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="nodejs" padding="10px" width="60" height="60"/>    
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="nodejs" padding="10px" width="60" height="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="nodejs" padding="10px" width="60" height="60"/>  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg" alt="nodejs" padding="10px" width="60" height="60"/>
 <img src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" alt="css3" padding="10px"  width="60" height="60"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="react" padding="10px" width="60" height="60"/>
@@ -41,6 +42,7 @@
 <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="css3" padding="10px"  width="60" height="60"/>
 <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="css3" padding="10px"  width="60" height="60"/>
 <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" padding="10px" alt="firebase" width="60" height="60"/> </a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/babel/babel-original.svg" alt="react" padding="10px" width="60" height="60"/>
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="css3" padding="10px"  width="60" height="60"/>
 <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="css3" padding="10px"  width="60" height="60"/>
 </p>
