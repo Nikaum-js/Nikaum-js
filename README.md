@@ -1,4 +1,4 @@
-# Hello Word 🌎<img width="30px" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif">
+# Hello Word <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="24px" /> <img width="30px" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif">
 
 
 <h1 align="center">Hi 👋, I'm Nikolas Santana, 17y</h1>
