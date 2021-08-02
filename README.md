@@ -36,6 +36,7 @@
 <img src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" alt="css3" padding="10px"  width="60" height="60"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="react" padding="10px" width="60" height="60"/>
 <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="css3" padding="10px"  width="60" height="60"/>
+<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="css3" padding="10px"  width="60" height="60"/>
 <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="css3" padding="10px"  width="60" height="60"/>
 <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" padding="10px" alt="firebase" width="60" height="60"/> </a>
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="css3" padding="10px"  width="60" height="60"/>
