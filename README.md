@@ -18,7 +18,6 @@ Programo desde os meus 14 anos, sempre procuro aprender cada vez mais sobre esse
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="react"  padding="10px"width="60" height="60"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" padding="10px" width="60" height="60"/>
 </p>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nikolas-as&layout=compact&langs_count=8&theme=tokyonight"/>
 
 ## 📚 "Quanto mais eu sei, mais eu sou" 🧠
 
@@ -26,6 +25,14 @@ Programo desde os meus 14 anos, sempre procuro aprender cada vez mais sobre esse
 - 💻 Front-End Developer
 - 🚀 #NeverStopLerning
 
+<center>
+<table>
+    <tr>
+        <td><img width="470px" align="left" src="https://github-readme-stats.vercel.app/api?username=Nikolas-as&show_icons=true&theme=midnight-purple" /></td>
+        <td><img width="470px" align="rigth" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikolas-as&layout=compact&langs_count=12&theme=midnight-purple"/></td>
+    </tr>   
+</table>
+</center>  
 
 ## Contato 👇🏼
 
