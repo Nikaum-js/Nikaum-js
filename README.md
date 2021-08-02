@@ -11,7 +11,7 @@
 
 - <p> Student at rocketseat. 🚀📚</p>
 
-- <p>I live in Brazil 🚩🇧🇷</p>
+- <p>I live in Brazil. 🚩🇧🇷</p>
 
 - <p>"Everything good lasts long enough to become unforgettable."🔥</p>
 
