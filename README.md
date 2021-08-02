@@ -4,11 +4,13 @@
 <h1 align="center">Hi 👋, I'm Nikolas Santana, 17y</h1>
 <h2 align="center">Full Stack Developer💻🚀</h2>
 
-<h4>A young man in love with technology. 👨🏻‍💻</h4>
+<p>A young man in love with technology. 👨🏻‍💻</p>
 
-<h4>My favorite technologies are ReactJs and NodeJs. 💖⭐</h4>
+<p>My favorite technologies are ReactJs and NodeJs. 💖⭐</p>
 
-<h4>"Everything good lasts long enough to become unforgettable."</h4>
+<p>I live in Brazil 🚩</p>
+
+<p>"Everything good lasts long enough to become unforgettable."</p>
 
 
 ## Languages and Tools 🔧🔨
