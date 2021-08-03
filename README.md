@@ -5,7 +5,7 @@
 <h2 align="center">Full Stack Developer💻🚀</h2>
 
 
-- <p>A young man in love with technology. 👨🏻‍💻</p>
+- <p>A young man in love with technology. 👨🏻‍💻🤖</p>
 
 - <p>My favorite technologies are ReactJs and NodeJs. 💖⭐</p>
 
