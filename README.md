@@ -32,7 +32,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" padding="10px" width="60" height="60"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="nodejs" padding="10px" width="60" height="60"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="nodejs" padding="10px" width="60" height="60"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="nodejs" padding="10px" width="60" height="60"/>
+<img src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4" alt="nodejs" padding="10px" width="60" height="60"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="nodejs" padding="10px" width="60" height="60"/>  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg" alt="nodejs" padding="10px" width="60" height="60"/>
 <img src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" alt="css3" padding="10px"  width="60" height="60"/>
