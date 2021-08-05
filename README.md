@@ -19,7 +19,7 @@
 ## Languages and Tools 🔧🔨
 <br>
 <p align="center" margin="100px">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" alt="html5" padding="10px"  width="60" height="60"/>
+<img transform= "scale(0.7)" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" alt="html5" padding="10px"  width="60" height="60"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" alt="css3" padding="10px"  width="60" height="60"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" padding="10px" alt="javascript" width="60" height="60"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="react" padding="10px" width="60" height="60"/>
