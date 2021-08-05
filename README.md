@@ -1,4 +1,4 @@
-# Hello World <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="24px" /> <img width="30px" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif">
+# Hello World <img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="30px" /> <img align="center" width="30px" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif">
 
 
 <h1 align="center">Hi 👋, I'm Nikolas Santana, 17y</h1>
@@ -11,7 +11,7 @@
 
 - <p> Student at rocketseat. 🚀📚</p>
 
-- <p>I live in Brazil. <img width="15px" src="https://image.flaticon.com/icons/png/512/206/206597.png"></p>
+- <p>I live in Brazil. <img align="center" width="15px" src="https://image.flaticon.com/icons/png/512/206/206597.png"></p>
 
 - <p>"Everything good lasts long enough to become unforgettable."🔥</p>
 
