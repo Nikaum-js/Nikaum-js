@@ -44,7 +44,7 @@
 <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" padding="10px" alt="firebase" width="60" height="60"/> </a>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/babel/babel-original.svg" alt="react" padding="10px" width="60" height="60"/>
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="css3" padding="10px"  width="60" height="60"/>
-<img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="css3" padding="10px"  width="60" height="60"/>
+<img src="https://www.vectorlogo.zone/logos/stripe/stripe-icon.svg" alt="css3" padding="10px"  width="60" height="60"/>
 </p>
 
 <br>
