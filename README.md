@@ -35,8 +35,10 @@
 ### 📊 Github Stats
 <a href='https://github.com/Nikolas-as/github-stats-transparent'>
   
-![Stats Overview](https://raw.githubusercontent.com/Nikolas-as/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/Nikolas-as/github-stats-transparent/output/generated/languages.svg)
+
+![](https://raw.githubusercontent.com/Nikolas-as/github-stats-transparent/main/readme_images/light.png)
+
+![](https://raw.githubusercontent.com/Nikolas-as/github-stats-transparent/main/readme_images/dark.png)
 
 </a> 
 <br>
