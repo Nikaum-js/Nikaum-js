@@ -1,6 +1,6 @@
 <h1> <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Hi, welcome! </h1>
 
-<h1 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> Hi 👋, I'm Nikolas Santana, 18y</h1>
+<h1 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> Hi, I'm Nikolas Santana, 18y</h1>
 <h2 align="center">Full Stack Developer💻🚀</h2>
 
 
@@ -34,16 +34,20 @@
 
 ### 📊 Github Stats
 <a href='https://github.com/Nikolas-as/github-stats-transparent'>
-  
 
-![](https://raw.githubusercontent.com/Nikolas-as/github-stats-transparent/main/readme_images/light.png)
-
-![](https://raw.githubusercontent.com/Nikolas-as/github-stats-transparent/main/readme_images/dark.png)
+  <table>
+    <tr>
+      <td>
+      <img align="left" width="470px" src="https://github-readme-stats.vercel.app/api?username=Nikolas-as&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ABSphreak's Github Stats">
+      </td>
+        <td><img width="470px" align="rigth" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikolas-as&layout=compact&langs_count20=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"/></td>
+    </tr>   
+</table>
 
 </a> 
 <br>
 
-## Contact 📞
+## Links 📞
 
 
 <a href="https://www.youtube.com/watch?v=BBJa32lCaaY">
