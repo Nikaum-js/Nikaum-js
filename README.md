@@ -1,17 +1,17 @@
-<h1> <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Hi, welcome! </h1>
+<h1> <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="40" /> Hi, welcome! </h1>
 
-<h1 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> Hi, I'm Nikolas Santana, 18y</h1>
-<h1 align="center">Full Stack Developer <img src="https://emojis.slackmojis.com/emojis/images/1597320283/10003/catjam.gif?1597320283" width="28" /></h1> 
+<h1 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="40" /> Hi, I'm Nikolas Santana, 18y</h1>
+<h1 align="center">Full Stack Developer <img src="https://emojis.slackmojis.com/emojis/images/1597320283/10003/catjam.gif?1597320283" width="28" /></h1>  
 
-- <p>A young man in love with technology. <img align="center" width="25px" src="https://emojis.slackmojis.com/emojis/images/1617807114/28039/study.png?1617807114"></p> 
+- <h3>A young man in love with technology. <img src="https://emojis.slackmojis.com/emojis/images/1614195067/14740/pc_computer.gif?1614195067" width="40" /></h3> 
 
-- <p>My favorite technologies are ReactJs and NodeJs. <img align="center" width="25px" src="https://emojis.slackmojis.com/emojis/images/1596129820/9856/love.gif?1596129820"></p> 
+- <h3>My favorite technologies are ReactJs and NodeJs. <img align="center" width=40px" src="https://emojis.slackmojis.com/emojis/images/1596129820/9856/love.gif?1596129820"></h3> 
 
-- <p> Student at rocketseat. <img align="center" width="25px" src="https://emojis.slackmojis.com/emojis/images/1611852306/12254/stockrocket.gif?1611852306"></p> 
+- <h3> Student at rocketseat. <img align="center" width="40px" src="https://emojis.slackmojis.com/emojis/images/1611852306/12254/stockrocket.gif?1611852306"></h3> 
 
-- <p>I live in Brazil. <img align="center" width="25px" src="https://emojis.slackmojis.com/emojis/images/1622794195/43305/brazil.gif?1622794195"></p>
+- <h3>I live in Brazil. <img align="center" width="40px" src="https://emojis.slackmojis.com/emojis/images/1622794195/43305/brazil.gif?1622794195"></h3>
 
-- <p>"Everything good lasts long enough to become unforgettable." <img align="center" width="25px" src="https://emojis.slackmojis.com/emojis/images/1621474080/40319/skater.gif?1621474080"></p> 
+- <h3>"Everything good lasts long enough to become unforgettable." <img align="center" width="40px" src="https://emojis.slackmojis.com/emojis/images/1621474080/40319/skater.gif?1621474080"></h3> 
 
 
 ## 🔧🔨 Languages and Tools
@@ -31,7 +31,7 @@
 
 <br>
 
-### 📊 Github Stats
+## 📊 Github Stats
 <a href='https://github.com/Nikolas-as/github-stats-transparent'>
 
   <table>
