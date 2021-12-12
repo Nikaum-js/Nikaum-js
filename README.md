@@ -1,7 +1,6 @@
-# Hello World <img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="30px" /> <img align="center" width="30px" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif">
+<h1> <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Hi, welcome! </h1>
 
-
-<h1 align="center">Hi 👋, I'm Nikolas Santana, 18y</h1>
+<h1 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> Hi 👋, I'm Nikolas Santana, 18y</h1>
 <h2 align="center">Full Stack Developer💻🚀</h2>
 
 
@@ -62,3 +61,6 @@
 <a href = "mailto:nikolasdssantana@gmail.com"><img width="110" height="27" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/5zhvzFhuQw" target="_blank"><img width="110" height="27" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 
+<p align="right">
+<img src="https://visitor-badge.glitch.me/badge?page_id=Nikolas-as.Nikolas-as" />
+</p>
