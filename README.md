@@ -7,7 +7,7 @@
 
 - <h3>My favorite technologies are ReactJs and NodeJs. <img align="center" width=40px" src="https://emojis.slackmojis.com/emojis/images/1596129820/9856/love.gif?1596129820"></h3> 
 
-- <h3> Student at @Rocketseat. <img align="center" width="40px" src="https://emojis.slackmojis.com/emojis/images/1611852306/12254/stockrocket.gif?1611852306"></h3> 
+- <h3> Student at Rocketseat. <img align="center" width="40px" src="https://emojis.slackmojis.com/emojis/images/1611852306/12254/stockrocket.gif?1611852306"></h3> 
 
 - <h3>I live in Brazil. <img align="center" width="40px" src="https://emojis.slackmojis.com/emojis/images/1622794195/43305/brazil.gif?1622794195"></h3>
 
