@@ -1,7 +1,7 @@
 <h1> <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="40" /> Hi, welcome! </h1>
 
 <h1 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="40" /> Hi, I'm Nikolas Santana, 18y</h1>
-<h1 align="center">Full Stack Developer <img src="https://emojis.slackmojis.com/emojis/images/1597320283/10003/catjam.gif?1597320283" width="28" /></h1>  
+<h1 align="center">Front-End Developer Pleno <img src="https://emojis.slackmojis.com/emojis/images/1597320283/10003/catjam.gif?1597320283" width="28" /></h1>  
 
 - <h3>A young man in love with technology. <img src="https://emojis.slackmojis.com/emojis/images/1614195067/14740/pc_computer.gif?1614195067" width="40" /></h3> 
 
@@ -14,7 +14,7 @@
 - <h3>"Everything good lasts long enough to become unforgettable." <img align="center" width="40px" src="https://emojis.slackmojis.com/emojis/images/1621474080/40319/skater.gif?1621474080"></h3> 
 
 
-## 🔧🔨 Languages and Tools
+## 🔧 🔨 Languages and Tools
 <br>
 <p align="center" margin="100px"> 
 <code><img height="100" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif"></code>
@@ -31,7 +31,7 @@
 
 <br>
 
-## 📊 Github Stats
+## 🧮 📊 Github Stats
 <a href='https://github.com/Nikolas-as/github-stats-transparent'>
 
   <table>
@@ -46,7 +46,7 @@
 </a> 
 <br>
 
-## 📞 Links
+## 🔗 📞 Links
 
 
 <a href="https://www.youtube.com/watch?v=BBJa32lCaaY">
@@ -59,13 +59,14 @@
   <img align="left" alt="Abhishek's Spotify" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
-<p align="right">
-<img src="https://visitor-badge.glitch.me/badge?page_id=Nikolas-as.Nikolas-as" />
+<br>
+<br>
+<br>
+<br>
+  
+# Bye Bye <img src="https://emojis.slackmojis.com/emojis/images/1616110799/22173/bye.gif?1616110799" width="50" /> 
+<br>
+<br>
+  
+<img src="https://emojis.slackmojis.com/emojis/images/1598266360/10254/pepe_naruto.gif?1598266360" width="100" />
 </p>
-
-<br>
-<br>
-
-## Bye Bye
-
-<img align="center" src="https://emojis.slackmojis.com/emojis/images/1598266360/10254/pepe_naruto.gif?1598266360" width="50" />
