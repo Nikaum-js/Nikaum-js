@@ -32,25 +32,27 @@
 
 <br>
 
-## 📚 "The more I know the more I am" 🧠
+### 📊 Github Stats
+<a href='https://github.com/Nikolas-as/github-stats-transparent'>
+  
+![Stats Overview](https://raw.githubusercontent.com/Nikolas-as/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/Nikolas-as/github-stats-transparent/output/generated/languages.svg)
 
-<center>
-<table>
-    <tr>
-        <td><img width="470px" align="left" src="https://github-readme-stats.vercel.app/api?username=Nikolas-as&show_icons=true&theme=midnight-purple" /></td>
-        <td><img width="470px" align="rigth" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikolas-as&layout=compact&langs_count=20&theme=midnight-purple"/></td>
-    </tr>   
-</table>
-</center>  
+</a> 
 <br>
 
 ## Contact 📞
 
 
-<a href="https://www.linkedin.com/in/nikolas-santana-0a00091a7/" target="_blank"><img width="110" height="27" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-  <a href="https://www.instagram.com/nikolas.dev/" target="_blank"><img width="110" height="27" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:nikolasdssantana@gmail.com"><img width="110" height="27" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/5zhvzFhuQw" target="_blank"><img width="110" height="27" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+<a href="https://www.youtube.com/watch?v=BBJa32lCaaY">
+  <img align="left" alt="Abhishek Naidu | Twitter" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
+</a>
+<a href="https://www.linkedin.com/in/nikolas-santana-/">
+  <img align="left" alt="Abhishek's LinkedIN" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://open.spotify.com/user/kildil?si=FkqcGZ5rRE2OaGhyQyBosw&utm_source=copy-link">
+  <img align="left" alt="Abhishek's Spotify" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+</a>
 
 <p align="right">
 <img src="https://visitor-badge.glitch.me/badge?page_id=Nikolas-as.Nikolas-as" />
