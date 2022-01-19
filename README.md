@@ -58,9 +58,9 @@
   <img align="left" alt="Abhishek's Spotify" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
   
- <a href="https://www.youtube.com/watch?v=BBJa32lCaaY">
+<!--  <a href="https://www.youtube.com/watch?v=BBJa32lCaaY">
   <img align="left" alt="Abhishek Naidu | Twitter" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
-</a>
+</a> -->
 
 <br>
 <br>
