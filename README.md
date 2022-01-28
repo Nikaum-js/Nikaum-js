@@ -5,14 +5,11 @@
 
 - <h3>A young man in love with technology. <img src="https://emojis.slackmojis.com/emojis/images/1614195067/14740/pc_computer.gif?1614195067" width="40" /></h3> 
 
-- <h3>My favorite technologies are ReactJs and NodeJs. <img align="center" width=40px" src="https://emojis.slackmojis.com/emojis/images/1596129820/9856/love.gif?1596129820"></h3> 
+- <h3>My favorite technologies are ReactJs, React Native and NodeJs. <img align="center" width=40px" src="https://emojis.slackmojis.com/emojis/images/1596129820/9856/love.gif?1596129820"></h3> 
 
 - <h3> Student at Rocketseat. <img align="center" width="40px" src="https://emojis.slackmojis.com/emojis/images/1611852306/12254/stockrocket.gif?1611852306"></h3> 
 
 - <h3>I live in Brazil. <img align="center" width="40px" src="https://emojis.slackmojis.com/emojis/images/1622794195/43305/brazil.gif?1622794195"></h3>
-
-- <h3>"Everything good lasts long enough to become unforgettable." <img align="center" width="40px" src="https://emojis.slackmojis.com/emojis/images/1621474080/40319/skater.gif?1621474080"></h3> 
-
 
 ## 🔧 🔨 Languages and Tools
 <br>
