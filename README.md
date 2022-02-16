@@ -1,7 +1,6 @@
 <h1> <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="40" /> Hi, welcome! </h1>
 <h1 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="40" /> Hi, I'm Nikolas Santana, 18y</h1>
 <h1 align="center">Front-End Developer Pleno <img src="https://emojis.slackmojis.com/emojis/images/1614366443/15178/painter.gif?1614366443" width="28" /></h1> 
-
 - <h3>A young man in love with technology. <img src="https://emojis.slackmojis.com/emojis/images/1614195067/14740/pc_computer.gif?1614195067" width="40" /></h3> 
 
 - <h3>My favorite technologies are ReactJs, React Native and NodeJs. <img align="center" width=40px" src="https://emojis.slackmojis.com/emojis/images/1596129820/9856/love.gif?1596129820"></h3> 
