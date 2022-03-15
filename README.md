@@ -52,9 +52,6 @@
 <a href="https://twitter.com/NikaumJs">
   <img align="left" alt="Abhishek's LinkedIN" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://open.spotify.com/user/kildil?si=FkqcGZ5rRE2OaGhyQyBosw&utm_source=copy-link">
-  <img align="left" alt="Abhishek's Spotify" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
   
 <!--  <a href="https://www.youtube.com/watch?v=BBJa32lCaaY">
   <img align="left" alt="Abhishek Naidu | Twitter" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
