@@ -56,6 +56,7 @@
   <img align="left" alt="Abhishek Naidu | Twitter" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
 </a> -->
 
+<!--
 <br>
 <br>
 <br>
@@ -67,3 +68,4 @@
   
 <img src="https://emojis.slackmojis.com/emojis/images/1598266360/10254/pepe_naruto.gif?1598266360" width="100" />
 </p>
+-->
