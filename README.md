@@ -48,9 +48,9 @@
 <a href="https://www.linkedin.com/in/nikolas-santana-/">
   <img align="left" alt="Abhishek's LinkedIN" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://twitter.com/NikaumJs">
+<!-- <a href="https://twitter.com/NikaumJs">
   <img align="left" alt="Abhishek's LinkedIN" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
+</a> -->
   
 <!--  <a href="https://www.youtube.com/watch?v=BBJa32lCaaY">
   <img align="left" alt="Abhishek Naidu | Twitter" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
