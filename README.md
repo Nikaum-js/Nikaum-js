@@ -12,6 +12,7 @@
 
 ## 🔧 🔨 Languages and Tools
 <br>
+
 <p align="center" margin="100px"> 
 <code><img height="100" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif"></code>
 <code><img height="100" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif"></code>
