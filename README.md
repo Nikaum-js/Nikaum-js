@@ -1,6 +1,6 @@
 <h1>  Hi, welcome</h1>
-<h1 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="40" /> Hi, I'm Nikolas Santana, 19y</h1>
-<h1 align="center">Front-End Developer <img src="https://emojis.slackmojis.com/emojis/images/1614366443/15178/painter.gif?1614366443" width="28" /></h1> 
+<h1 align="center"> Hi, I'm Nikolas Santana, 19y</h1>
+<h1 align="center">Front-End Developer</h1> 
 
 
 - <h3>A young man in love with technology. <img src="https://emojis.slackmojis.com/emojis/images/1614195067/14740/pc_computer.gif?1614195067" width="40" /></h3> 
@@ -41,32 +41,4 @@
     </tr>   
 </table>
 </a> 
-  
-<br>
 
-## 🔗 📞 Links
-
-<a href="https://www.linkedin.com/in/nikolas-santana-/">
-  <img align="left" alt="Abhishek's LinkedIN" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<!-- <a href="https://twitter.com/NikaumJs">
-  <img align="left" alt="Abhishek's LinkedIN" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a> -->
-  
-<!--  <a href="https://www.youtube.com/watch?v=BBJa32lCaaY">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
-</a> -->
-
-<!--
-<br>
-<br>
-<br>
-<br>
-  
-# Bye Bye <img src="https://emojis.slackmojis.com/emojis/images/1616110799/22173/bye.gif?1616110799" width="50" /> 
-<br>
-<br>
-  
-<img src="https://emojis.slackmojis.com/emojis/images/1598266360/10254/pepe_naruto.gif?1598266360" width="100" />
-</p>
--->
