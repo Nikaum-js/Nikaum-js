@@ -1,4 +1,4 @@
-<h1>  <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="40" />  Hi, welcome</h1>
+<h1>  Hi, welcome</h1>
 <h1 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="40" /> Hi, I'm Nikolas Santana, 19y</h1>
 <h1 align="center">Front-End Developer <img src="https://emojis.slackmojis.com/emojis/images/1614366443/15178/painter.gif?1614366443" width="28" /></h1> 
 
