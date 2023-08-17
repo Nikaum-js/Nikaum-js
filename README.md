@@ -1,4 +1,7 @@
+[![Linkedin Badge](https://img.shields.io/badge/-Nikolas%20Santana-3182CE?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nikolas-santana-/)](https://www.linkedin.com/in/nikolas-santana-/) 
+[![Gmail Badge](https://img.shields.io/badge/-nikolasdssantana@gmail.com-3182CE?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nikolasdssantana@gmail.com)](mailto:nikolasdssantana@gmail.com)
 <h1>  Hi, welcome</h1>
+
 <h1 align="center"> Hi, I'm Nikolas Santana, 19y</h1>
 <h1 align="center">Front-End & Mobile Developer</h1> 
 
