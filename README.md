@@ -2,7 +2,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-nikolasdssantana@gmail.com-3182CE?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nikolasdssantana@gmail.com)](mailto:nikolasdssantana@gmail.com)
 <h1>  Hi, welcome</h1>
 
-<h1 align="center"> Hi, I'm Nikolas Santana, 19y</h1>
+<h1 align="center"> Hi, I'm Nikolas Santana</h1>
 <h1 align="center">Front-End & Mobile Developer</h1> 
 
 ## 🔧 🔨 Languages and Tools
