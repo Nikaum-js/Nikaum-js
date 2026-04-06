@@ -1,9 +1,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Nikolas%20Santana-3182CE?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nikolas-santana-/)
 [![Gmail Badge](https://img.shields.io/badge/-nikolasdssantana@gmail.com-3182CE?style=flat-square&logo=Gmail&logoColor=white)](mailto:nikolasdssantana@gmail.com)
 
-# Fala, eu sou o Nikolas 👋
-#### Mobile & Full Stack Software Engineer
-
 ### 🧐 **Sobre:**
 
 ```diff
