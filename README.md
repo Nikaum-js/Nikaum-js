@@ -1,38 +1,67 @@
-[![Linkedin Badge](https://img.shields.io/badge/-Nikolas%20Santana-3182CE?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nikolas-santana-/)](https://www.linkedin.com/in/nikolas-santana-/) 
-[![Gmail Badge](https://img.shields.io/badge/-nikolasdssantana@gmail.com-3182CE?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nikolasdssantana@gmail.com)](mailto:nikolasdssantana@gmail.com)
-<h1>  Hi, welcome</h1>
+[![Linkedin Badge](https://img.shields.io/badge/-Nikolas%20Santana-3182CE?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nikolas-santana-/)
+[![Gmail Badge](https://img.shields.io/badge/-nikolasdssantana@gmail.com-3182CE?style=flat-square&logo=Gmail&logoColor=white)](mailto:nikolasdssantana@gmail.com)
 
-<h1 align="center"> Hi, I'm Nikolas Santana</h1>
-<h1 align="center">Front-End & Mobile Developer</h1> 
+# Fala, eu sou o Nikolas 👋
+#### Mobile & Full Stack Software Engineer
 
-## 🔧 🔨 Languages and Tools
-<br>
+### 🧐 **Sobre:**
 
-<p align="center" margin="100px"> 
-<code><img height="100" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif"></code>
-<code><img height="100" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif"></code>
-<code><img height="100" src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif"></code>
-<code><img height="100" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif"></code>
-<code><img height="100" src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif"></code>
-<code><img height="100" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif"></code>
-<code><img height="100" src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif"></code>
-<code><img height="100" src="https://media.giphy.com/media/Ri2TUcKlaOcaDBxFpY/giphy.gif"></code>
-<code><img height="100" src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif"></code>
-<code><img height="100" src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif"></code>
-</p>
+```diff
+@@ Software Engineer evangelista de TypeScript @@
 
-<br>
++ De São Paulo, Brasil 🇧🇷
++ Há 5+ anos sofrendo com React Native, ReactJS e Node
+! Atualmente estudando mobile nativo (Kotlin e Swift)
+! Construindo umas paradas com Claude Code
+# Gosto de discutir arquitetura, padrões de código e por que o app tá demorando pra buildar
+- Fora do código: academia, animes e música 
+```
 
-## 🧮 📊 Github Stats
-<a href='https://github.com/Nikolas-as/github-stats-transparent'>
+### 🛠 **Ferramentas que ando usando:**
 
-  <table>
-    <tr>
-      <td>
-      <img align="left" width="470px" src="https://github-readme-stats.vercel.app/api?username=Nikaum-js&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ABSphreak's Github Stats">
-      </td>
-        <td><img width="470px" align="rigth" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikaum-js&layout=compact&langs_count20=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"/></td> 
-    </tr>   
-</table>
-</a> 
+<div align="center">
 
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![ReactJS](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![Sass](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
+
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+### 📊 **Github Stats:**
+
+<div align="center">
+  <img height="180em" src="https://readme-stats-one-bay-13.vercel.app/api?username=Nikaum-js&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://readme-stats-one-bay-13.vercel.app/api/top-langs/?username=Nikaum-js&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</div>
