@@ -1,3 +1,6 @@
+[![Linkedin Badge](https://img.shields.io/badge/-Nikolas%20Santana-3182CE?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nikolas-santana-/)
+[![Gmail Badge](https://img.shields.io/badge/-nikolasdssantana@gmail.com-3182CE?style=flat-square&logo=Gmail&logoColor=white)](mailto:nikolasdssantana@gmail.com)
+
 ### 🧐 **Sobre:**
 
 ```diff
@@ -15,31 +18,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,nextjs,nest,kotlin,swift&theme=dark" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,styledcomponents,sass,bootstrap&theme=dark" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=firebase,postgres,mongodb,redis,graphql&theme=dark" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,aws,azure,gcp&theme=dark" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=jest,cypress,git,figma,vscode&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,nextjs,nest,vue,nuxt,vite,redux,kotlin,swift,graphql,prisma,postgres,mongodb,redis,firebase,materialui,tailwind,docker,kubernetes,aws,gcp,linux,python,git,figma,vscode,jest&theme=dark&perline=10" />
   </a>
 </p>
 
