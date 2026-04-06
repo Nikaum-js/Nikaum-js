@@ -62,6 +62,15 @@
 ### 📊 **Github Stats:**
 
 <div align="center">
-  <img height="180em" src="https://readme-stats-one-bay-13.vercel.app/api?username=Nikaum-js&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://readme-stats-one-bay-13.vercel.app/api/top-langs/?username=Nikaum-js&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nikaum-js&theme=tokyonight" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nikaum-js&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nikaum-js&theme=tokyonight" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nikaum-js&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nikaum-js&theme=tokyonight&utcOffset=-3" />
 </div>
